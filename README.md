@@ -4,7 +4,7 @@ This is an Android Application which I created for DSC-SRM recruitment. It calcu
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone --bare https://github.com/anubha-v-ardhan/BMI-Calculator.git
+git clone https://github.com/anubha-v-ardhan/BMI-Calculator.git
 ```
 
 ## Maintainers
