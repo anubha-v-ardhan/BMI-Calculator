@@ -1,5 +1,5 @@
 # BMI-Calculator
-This is am Android Application which calculates BMI teaking height and weight as input.
+This is an Android Application which I created for DSC-SRM recruitment. It calculates BMI teaking height and weight as input.
 
 ## Installation
 Clone this repository and import into **Android Studio**
