@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DSC-BMI</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="calculate">Calculate</string>
+</resources>
